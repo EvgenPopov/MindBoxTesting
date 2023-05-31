@@ -1,2 +1,7 @@
-# MindBoxTesting
-TestForMindBox
+# Тестовое задание для MindBox
+
+- Реализация основной задачи в папке DataContracts(__ShapeSquare.DataContract__)
+- В этой же либе, где реализована задача, лежит скрипт по второму заданию(__TestQuery__)
+- Тесты в папке __Tests__
+
+___Спасибо за уделенное время___ :sparkling_heart:
